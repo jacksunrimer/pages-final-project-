@@ -1,0 +1,106 @@
+/* Early Beginnings CSS */
+
+#early img {
+    position: absolute;
+    width: 50%;
+    bottom: -240px;
+    left: 700px;
+}
+.earlytext{
+    margin-right: 50px;
+    padding-right: 700px;
+}
+
+/* Early-Mid 1900s CSS */
+
+#earlymid1900s img {
+    position: absolute;
+    width: 50%;
+    left: -2px;
+    top: 920px;
+}
+.earlymid1900stext p{
+    padding-left: 700px;
+}
+.earlymid1900stext h2 {
+    padding-left: 980px;
+}
+/* Beginning of Electronic Games CSS */
+
+#electronic img {
+    position: absolute;
+    width: 42%;
+    bottom: -1360px;
+    margin-left: 320px;
+}
+.electronictext {
+    margin-right: 50px;
+    padding-right: 700px;
+}
+
+/* Nintendo's First Video Game CSS */
+
+#firstvideogame img {
+    position: absolute;
+    width: 50%;
+    left: 20px;
+    bottom: -1900px;
+}
+.firstvideogametext {
+    padding-left: 700px;
+}
+
+/* Early 80s CSS */
+
+#early80s img {
+    position: absolute;
+    width: 50%;
+    margin-left: 330px;
+    margin-top: -125px;
+}
+.early80stext {
+    margin-right: 50px;
+    padding-right: 700px;
+}
+
+/*Nintendo Takes Off CSS */
+
+#takesoff img {
+    position: absolute;
+    width: 52%;
+    left: 10px;
+    margin-top: -90px;
+}
+.takesofftext {
+    padding-left: 700px;
+}
+.takesofftext h2 {
+    padding-left: 300px;
+}
+
+/* The Wii */
+
+.wiitext {
+    margin-right: 50px;
+    padding-right: 700px;
+}
+#wii img {
+    position: absolute;
+    width: 50%;
+    margin-left: 330px;
+    margin-top: -90px;
+}
+/* Nintendo Today */
+
+.todaytext {
+    padding-left: 700px;
+}
+.todaytext h2 {
+    padding-left: 300px;
+}
+#today img {
+    position: absolute;
+    width: 52%;
+    left: 10px;
+    margin-top: 50px;
+}
